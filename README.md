@@ -1,6 +1,6 @@
 # ROADMAP — EAccounting Learning Path
 
-Step-by-step guides for building **EAccounting**, an accounting system for Egyptian SMEs: a
+Step-by-step guides for building **EAccounting**, an accounting system for SMEs: a
 Laravel 13 API with a Vue 3 PWA frontend. Each file is one phase, with full steps, code, and the
 reasons behind each decision. The app built from these guides lives in
 [`../EAccounting/`](../EAccounting/README.md).
